@@ -1,0 +1,15 @@
+M:\WEB-API\נוסבכר\login\Tamar_Sheva_Project\Repositary\bin\Debug\net8.0\Repositary.deps.json
+M:\WEB-API\נוסבכר\login\Tamar_Sheva_Project\Repositary\bin\Debug\net8.0\Repositary.dll
+M:\WEB-API\נוסבכר\login\Tamar_Sheva_Project\Repositary\bin\Debug\net8.0\Repositary.pdb
+M:\WEB-API\נוסבכר\login\Tamar_Sheva_Project\Repositary\bin\Debug\net8.0\Entities.dll
+M:\WEB-API\נוסבכר\login\Tamar_Sheva_Project\Repositary\bin\Debug\net8.0\Entities.pdb
+M:\WEB-API\נוסבכר\login\Tamar_Sheva_Project\Repositary\obj\Debug\net8.0\Repositary.csproj.AssemblyReference.cache
+M:\WEB-API\נוסבכר\login\Tamar_Sheva_Project\Repositary\obj\Debug\net8.0\Repositary.GeneratedMSBuildEditorConfig.editorconfig
+M:\WEB-API\נוסבכר\login\Tamar_Sheva_Project\Repositary\obj\Debug\net8.0\Repositary.AssemblyInfoInputs.cache
+M:\WEB-API\נוסבכר\login\Tamar_Sheva_Project\Repositary\obj\Debug\net8.0\Repositary.AssemblyInfo.cs
+M:\WEB-API\נוסבכר\login\Tamar_Sheva_Project\Repositary\obj\Debug\net8.0\Repositary.csproj.CoreCompileInputs.cache
+M:\WEB-API\נוסבכר\login\Tamar_Sheva_Project\Repositary\obj\Debug\net8.0\Repositary.csproj.CopyComplete
+M:\WEB-API\נוסבכר\login\Tamar_Sheva_Project\Repositary\obj\Debug\net8.0\Repositary.dll
+M:\WEB-API\נוסבכר\login\Tamar_Sheva_Project\Repositary\obj\Debug\net8.0\refint\Repositary.dll
+M:\WEB-API\נוסבכר\login\Tamar_Sheva_Project\Repositary\obj\Debug\net8.0\Repositary.pdb
+M:\WEB-API\נוסבכר\login\Tamar_Sheva_Project\Repositary\obj\Debug\net8.0\ref\Repositary.dll

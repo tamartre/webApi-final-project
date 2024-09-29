@@ -1,0 +1,265 @@
+﻿
+/* Global Styles */
+html, body {
+    direction: rtl;
+    margin: 0;
+    padding: 0;
+    font-family: system-ui;
+    background-color: #f5f5f5;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+
+
+}
+
+.floatRight {
+    float: right;
+}
+
+.QuickLinks ul li a::after {
+    content: '|';
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+/* Header Styles */
+header {
+    background-color: #333;
+    padding: 10px;
+    color: white;
+    text-align: center;
+    position: relative;
+}
+
+    header .bar {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+.QuickLinks ul {
+    display: flex;
+    align-items: center;
+}
+
+    .QuickLinks ul li {
+        margin-right: 20px;
+    }
+
+        .QuickLinks ul li a {
+            color: white;
+            font-size: 14px;
+        }
+
+.BagSummary .Icon {
+    background-image: url(../Images/BagActive.png);
+    background-repeat: no-repeat;
+    padding: 9px 2px 2px 2px;
+    color: #4f8855;
+    width: 24px;
+    height: 21px;
+    position: relative;
+}
+
+    .BagSummary .Icon .ItemCount {
+        position: absolute;
+        top: -5px;
+        right: -5px;
+        background: red;
+        color: white;
+        border-radius: 50%;
+        width: 18px;
+        height: 18px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+.Checkout .goToCart {
+    background: #1a6461;
+    font-size: 14px;
+    color: white;
+    padding: 8px 12px;
+    border: none;
+    border-radius: 4px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+    .Checkout .goToCart:hover {
+        background: #145a50;
+    }
+
+/* Filters Styles */
+.Filters {
+    width: 250px;
+    padding: 20px;
+    background: white;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    position: fixed;
+    top: 50px; /* Give some margin from the top */
+    right: 0;
+    height: calc(100% - 50px); /* Adjust height to not overlap with header */
+    overflow-y: auto;
+}
+
+.filterBreak {
+    margin-bottom: 20px;
+}
+
+.Filters .filterBreak span {
+    font-weight: bold;
+}
+
+.Filters .nameFilter {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+    .Filters .nameFilter input {
+        flex: 1;
+        padding: 8px;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        color: #1a6461;
+    }
+
+    .Filters .nameFilter button {
+        padding: 8px;
+        background: #1a6461;
+        color: white;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+
+        .Filters .nameFilter button:hover {
+            background: #4f8855;
+        }
+
+.Filters .priceInputText {
+    display: inline-block;
+    width: calc(40% - 10px);
+}
+
+.Filters .priceCurrency {
+    display: inline-block;
+    width: 10%;
+    text-align: center;
+    padding: 8px;
+    margin-top: 10px;
+}
+
+/* Product List */
+#PoductList {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+    margin-right: 270px; /* Adjust for the filter menu width */
+}
+
+.card {
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    margin: 10px;
+    text-align: center;
+    overflow: hidden;
+    transition: transform 0.2s;
+    width: calc(33.333% - 40px); /* Responsive grid - 3 items per row */
+}
+
+    .card:hover {
+        transform: translateY(-5px);
+    }
+
+    .card .img-w {
+        height: 200px;
+        overflow: hidden;
+    }
+
+        .card .img-w img {
+            width: 100%;
+            height: auto;
+        }
+
+    .card h1 {
+        font-size: 18px;
+        margin: 16px;
+    }
+
+    .card .description {
+        font-size: 14px;
+        color: #666;
+        margin: 16px;
+    }
+
+    .card .price {
+        font-size: 22px;
+        color: grey;
+        margin: 16px;
+    }
+
+    .card button {
+        display: block;
+        width: calc(100% - 32px);
+        margin: 16px;
+        padding: 12px;
+        background-color: #1a6461;
+        color: white;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+
+        .card button:hover {
+            background-color: #4f8855;
+        }
+
+/* Pagination */
+.pagination {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    clear: both;
+}
+
+    .pagination a {
+        color: #007bff;
+        padding: 8px 16px;
+        text-decoration: none;
+        border: 1px solid #ddd;
+        margin: 0 2px;
+        border-radius: 4px;
+    }
+
+        .pagination a.active {
+            background-color: #007bff;
+            color: white;
+        }
+
+        .pagination a:hover:not(.active) {
+            background-color: #ddd;
+        }
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}

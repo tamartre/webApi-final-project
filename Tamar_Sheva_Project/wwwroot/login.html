@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello to our website</title>
+    <script src="Register.js" defer></script>
+</head>
+<body>
+
+    <div>
+        <input id="txtUserName" placeholder="Username"><br>
+        <input id="txtFirstName" placeholder="First name"><br>
+        <input id="txtLastName" placeholder="Last name"><br>
+        <input id="txtPassword" placeholder="Password" oninput="PasswordCheck(this.value)"><br>
+        <input id="passwordCheck" readonly><br>
+        <button onclick="addUserToUsers()">Register</button>
+    </div>
+
+    <br><br>
+
+    <div>
+        <input id="txtUserNamelogin" placeholder="Username"><br>
+        <input id="txtPasswordlogin" placeholder="Password"><br>
+        <button onclick="checkExistingUser()">Login</button>
+    </div>
+
+</body>
+</html>

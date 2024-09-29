@@ -1,0 +1,98 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Products</title>
+    <link href="css/Products.css" rel="stylesheet">
+    <script src="HomePage.js" defer></script>
+    <script src="Register.js" defer></script>
+    <script src="ShoppingBag.js" defer></script>
+
+    <!-- Product Card Template -->
+    <template id="temp-card">
+        <div class="card">
+            <div class="img-w">
+                <img alt="" style="width:100%">
+            </div>
+            <h1></h1>
+            <p class="img"></p>
+            <p class="productName"></p>
+            <p class="description"></p>
+            <p class="price"></p>
+            <p><button id="cardBtn">Add To BAsket</button></p>
+        </div>
+    </template>
+
+    <!-- Category Filter Template -->
+    <template id="temp-category">
+        <div class="cb checkbox">
+            <input type="checkbox" class="opt" id="" value="">
+            <label for="">
+                <span class="Count"></span>
+                <span class="OptionName"></span>
+            </label>
+        </div>
+    </template>
+</head>
+<body>
+    <header>
+        <div class="bar">
+            <section class="QuickLinks">
+                <ul>
+                    <li data-section="myAccount">
+                        <a href="#" title="Enter Update Deatails" onclick="trackLinkID(this);" accesskey="h">Update Deatails</a>
+                    </li>
+                </ul>
+            </section>
+            <span class="BagSummary MiniBagNonSecure">
+                <a href="ShoppingBag.html">
+                    <div class="Icon">
+                        <div class="ItemCount">
+                            <span id="ItemsCountText">0</span>
+                        </div>
+                    </div>
+                </a>
+            </span>
+            <div class="Checkout">
+                <a class="goToCart" href="ShoppingBag.html">Payment</a>
+            </div>
+        </div>
+    </header>
+
+    <div id="filters" class="Filters fixedVisible">
+        <div class="ResultCount">
+            <a class="Clear" href="">Clean All</a>
+            <br /><br />
+            <div><span id="counter"></span> Products</div>
+        </div>
+        <div id="categoryList" class="filterBreak">
+            <span>choose category</span>
+        </div>
+        <div id="nameFilter" class="nameFilter filterBreak">
+            <input type="text" id="nameSearch" class="floatRight" placeholder="search by descreption">
+            <button class="floatRight" tabindex="0" onclick="filterProducts()">
+                <span class="header42"><img src="Images/searchIcon.svg" alt="סמל חיפוש"></span>
+            </button>
+        </div>
+        <div id="priceRangeFilter" class="filterBreak">
+            <div><span id="counter"></span> price:</div>
+            <input type="text" maxlength="9" id="minPrice" class="priceInputText" placeholder="min">
+            <span class="priceCurrency">₪</span>
+            <input type="text" maxlength="9" id="maxPrice" class="priceInputText" placeholder="max">
+            <span class="priceCurrency">₪</span>
+            <button onclick="filterProducts()">
+                <span><img src="Images/searchIcon.svg" alt="סמל חיפוש"></span>
+            </button>
+        </div>
+    </div>
+
+    <div id="PoductList"></div>
+
+    <div class="pagination">
+        <a href="#">&laquo;</a>
+        <div id="pages"></div>
+        <a href="#">&raquo;</a>
+    </div>
+</body>
+</html>

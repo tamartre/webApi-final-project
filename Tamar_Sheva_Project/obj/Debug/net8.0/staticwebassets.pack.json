@@ -1,0 +1,341 @@
+{
+  "Files": [
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\HomePage.js",
+      "PackagePath": "staticwebassets\\HomePage.js"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\3244.JPG",
+      "PackagePath": "staticwebassets\\Images\\3244.JPG"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\3275.JPG",
+      "PackagePath": "staticwebassets\\Images\\3275.JPG"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\BagActive.png",
+      "PackagePath": "staticwebassets\\Images\\BagActive.png"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\Thumbs.db",
+      "PackagePath": "staticwebassets\\Images\\Thumbs.db"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\armchair.jpeg",
+      "PackagePath": "staticwebassets\\Images\\armchair.jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\babych.jpg",
+      "PackagePath": "staticwebassets\\Images\\babych.jpg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\bar.jpeg",
+      "PackagePath": "staticwebassets\\Images\\bar.jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\cbed.jpeg",
+      "PackagePath": "staticwebassets\\Images\\cbed.jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\cotable.png",
+      "PackagePath": "staticwebassets\\Images\\cotable.png"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\cribs.jpeg",
+      "PackagePath": "staticwebassets\\Images\\cribs.jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\dbed.jpeg",
+      "PackagePath": "staticwebassets\\Images\\dbed.jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\famSofa.jpg",
+      "PackagePath": "staticwebassets\\Images\\famSofa.jpg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\icn-remove.png",
+      "PackagePath": "staticwebassets\\Images\\icn-remove.png"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\ktablee.jpeg",
+      "PackagePath": "staticwebassets\\Images\\ktablee.jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\ochair.jpeg",
+      "PackagePath": "staticwebassets\\Images\\ochair.jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\pikaso_texttoimage_35mm-film-photography-Baby-chair-high-detail (1).jpeg",
+      "PackagePath": "staticwebassets\\Images\\pikaso_texttoimage_35mm-film-photography-Baby-chair-high-detail (1).jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\pikaso_texttoimage_35mm-film-photography-Baby-chair-high-detail (3).jpeg",
+      "PackagePath": "staticwebassets\\Images\\pikaso_texttoimage_35mm-film-photography-Baby-chair-high-detail (3).jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\pikaso_texttoimage_35mm-film-photography-Baby-chair-high-detail.jpeg",
+      "PackagePath": "staticwebassets\\Images\\pikaso_texttoimage_35mm-film-photography-Baby-chair-high-detail.jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\pikaso_texttoimage_35mm-film-photography-Bar-stool-high-detail (2).jpeg",
+      "PackagePath": "staticwebassets\\Images\\pikaso_texttoimage_35mm-film-photography-Bar-stool-high-detail (2).jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\pikaso_texttoimage_35mm-film-photography-Bar-stool-high-detail.jpeg",
+      "PackagePath": "staticwebassets\\Images\\pikaso_texttoimage_35mm-film-photography-Bar-stool-high-detail.jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\pikaso_texttoimage_35mm-film-photography-Crib-high-detail (2).jpeg",
+      "PackagePath": "staticwebassets\\Images\\pikaso_texttoimage_35mm-film-photography-Crib-high-detail (2).jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\pikaso_texttoimage_35mm-film-photography-Crib-high-detail (3).jpeg",
+      "PackagePath": "staticwebassets\\Images\\pikaso_texttoimage_35mm-film-photography-Crib-high-detail (3).jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\pikaso_texttoimage_35mm-film-photography-Crib-high-detail.jpeg",
+      "PackagePath": "staticwebassets\\Images\\pikaso_texttoimage_35mm-film-photography-Crib-high-detail.jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\pikaso_texttoimage_35mm-film-photography-Cribs-high-detail.jpeg",
+      "PackagePath": "staticwebassets\\Images\\pikaso_texttoimage_35mm-film-photography-Cribs-high-detail.jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\pikaso_texttoimage_35mm-film-photography-Folding-chair-high-detail (1).jpeg",
+      "PackagePath": "staticwebassets\\Images\\pikaso_texttoimage_35mm-film-photography-Folding-chair-high-detail (1).jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\pikaso_texttoimage_35mm-film-photography-Folding-chair-high-detail (2).jpeg",
+      "PackagePath": "staticwebassets\\Images\\pikaso_texttoimage_35mm-film-photography-Folding-chair-high-detail (2).jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\pikaso_texttoimage_35mm-film-photography-Folding-chair-high-detail (3).jpeg",
+      "PackagePath": "staticwebassets\\Images\\pikaso_texttoimage_35mm-film-photography-Folding-chair-high-detail (3).jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\pikaso_texttoimage_35mm-film-photography-Folding-chair-high-detail.jpeg",
+      "PackagePath": "staticwebassets\\Images\\pikaso_texttoimage_35mm-film-photography-Folding-chair-high-detail.jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\pikaso_texttoimage_35mm-film-photography-Office-chair-high-detail (1).jpeg",
+      "PackagePath": "staticwebassets\\Images\\pikaso_texttoimage_35mm-film-photography-Office-chair-high-detail (1).jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\pikaso_texttoimage_35mm-film-photography-Office-chair-high-detail.jpeg",
+      "PackagePath": "staticwebassets\\Images\\pikaso_texttoimage_35mm-film-photography-Office-chair-high-detail.jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\pikaso_texttoimage_35mm-film-photography-Rocking-chair-high-detail (1).jpeg",
+      "PackagePath": "staticwebassets\\Images\\pikaso_texttoimage_35mm-film-photography-Rocking-chair-high-detail (1).jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\pikaso_texttoimage_35mm-film-photography-Rocking-chair-high-detail (2).jpeg",
+      "PackagePath": "staticwebassets\\Images\\pikaso_texttoimage_35mm-film-photography-Rocking-chair-high-detail (2).jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\pikaso_texttoimage_35mm-film-photography-Rocking-chair-high-detail (3).jpeg",
+      "PackagePath": "staticwebassets\\Images\\pikaso_texttoimage_35mm-film-photography-Rocking-chair-high-detail (3).jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\pikaso_texttoimage_35mm-film-photography-Rocking-chair-high-detail (4).jpeg",
+      "PackagePath": "staticwebassets\\Images\\pikaso_texttoimage_35mm-film-photography-Rocking-chair-high-detail (4).jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\pikaso_texttoimage_35mm-film-photography-Rocking-chair-high-detail (5).jpeg",
+      "PackagePath": "staticwebassets\\Images\\pikaso_texttoimage_35mm-film-photography-Rocking-chair-high-detail (5).jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\pikaso_texttoimage_35mm-film-photography-Rocking-chair-high-detail (6).jpeg",
+      "PackagePath": "staticwebassets\\Images\\pikaso_texttoimage_35mm-film-photography-Rocking-chair-high-detail (6).jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\pikaso_texttoimage_35mm-film-photography-Rocking-chair-high-detail (7).jpeg",
+      "PackagePath": "staticwebassets\\Images\\pikaso_texttoimage_35mm-film-photography-Rocking-chair-high-detail (7).jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\pikaso_texttoimage_35mm-film-photography-Rocking-chair-high-detail.jpeg",
+      "PackagePath": "staticwebassets\\Images\\pikaso_texttoimage_35mm-film-photography-Rocking-chair-high-detail.jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\pikaso_texttoimage_35mm-film-photography-Single-armchair-high-detail (1).jpeg",
+      "PackagePath": "staticwebassets\\Images\\pikaso_texttoimage_35mm-film-photography-Single-armchair-high-detail (1).jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\pikaso_texttoimage_35mm-film-photography-Single-armchair-high-detail (2).jpeg",
+      "PackagePath": "staticwebassets\\Images\\pikaso_texttoimage_35mm-film-photography-Single-armchair-high-detail (2).jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\pikaso_texttoimage_35mm-film-photography-Single-armchair-high-detail (3).jpeg",
+      "PackagePath": "staticwebassets\\Images\\pikaso_texttoimage_35mm-film-photography-Single-armchair-high-detail (3).jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\pikaso_texttoimage_35mm-film-photography-Single-armchair-high-detail (4).jpeg",
+      "PackagePath": "staticwebassets\\Images\\pikaso_texttoimage_35mm-film-photography-Single-armchair-high-detail (4).jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\pikaso_texttoimage_35mm-film-photography-Single-armchair-high-detail (5).jpeg",
+      "PackagePath": "staticwebassets\\Images\\pikaso_texttoimage_35mm-film-photography-Single-armchair-high-detail (5).jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\pikaso_texttoimage_35mm-film-photography-Single-armchair-high-detail (6).jpeg",
+      "PackagePath": "staticwebassets\\Images\\pikaso_texttoimage_35mm-film-photography-Single-armchair-high-detail (6).jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\pikaso_texttoimage_35mm-film-photography-Single-armchair-high-detail (7).jpeg",
+      "PackagePath": "staticwebassets\\Images\\pikaso_texttoimage_35mm-film-photography-Single-armchair-high-detail (7).jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\pikaso_texttoimage_35mm-film-photography-Sliding-closet-high-detail (1).jpeg",
+      "PackagePath": "staticwebassets\\Images\\pikaso_texttoimage_35mm-film-photography-Sliding-closet-high-detail (1).jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\pikaso_texttoimage_35mm-film-photography-Sliding-closet-high-detail (2).jpeg",
+      "PackagePath": "staticwebassets\\Images\\pikaso_texttoimage_35mm-film-photography-Sliding-closet-high-detail (2).jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\pikaso_texttoimage_35mm-film-photography-Sliding-closet-high-detail (3).jpeg",
+      "PackagePath": "staticwebassets\\Images\\pikaso_texttoimage_35mm-film-photography-Sliding-closet-high-detail (3).jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\pikaso_texttoimage_35mm-film-photography-Swivel-chair-high-detail (1).jpeg",
+      "PackagePath": "staticwebassets\\Images\\pikaso_texttoimage_35mm-film-photography-Swivel-chair-high-detail (1).jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\pikaso_texttoimage_35mm-film-photography-Swivel-chair-high-detail (2).jpeg",
+      "PackagePath": "staticwebassets\\Images\\pikaso_texttoimage_35mm-film-photography-Swivel-chair-high-detail (2).jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\pikaso_texttoimage_35mm-film-photography-Swivel-chair-high-detail (3).jpeg",
+      "PackagePath": "staticwebassets\\Images\\pikaso_texttoimage_35mm-film-photography-Swivel-chair-high-detail (3).jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\pikaso_texttoimage_35mm-film-photography-Swivel-chair-high-detail.jpeg",
+      "PackagePath": "staticwebassets\\Images\\pikaso_texttoimage_35mm-film-photography-Swivel-chair-high-detail.jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\pikaso_texttoimage_35mm-film-photography-empty-Sliding-closet-high-de (1).jpeg",
+      "PackagePath": "staticwebassets\\Images\\pikaso_texttoimage_35mm-film-photography-empty-Sliding-closet-high-de (1).jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\pikaso_texttoimage_35mm-film-photography-empty-Sliding-closet-high-de (2).jpeg",
+      "PackagePath": "staticwebassets\\Images\\pikaso_texttoimage_35mm-film-photography-empty-Sliding-closet-high-de (2).jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\pikaso_texttoimage_35mm-film-photography-empty-Sliding-closet-high-de (3).jpeg",
+      "PackagePath": "staticwebassets\\Images\\pikaso_texttoimage_35mm-film-photography-empty-Sliding-closet-high-de (3).jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\pikaso_texttoimage_35mm-film-photography-empty-Sliding-closet-high-de.jpeg",
+      "PackagePath": "staticwebassets\\Images\\pikaso_texttoimage_35mm-film-photography-empty-Sliding-closet-high-de.jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\pikaso_texttoimage_35mm-film-photography-empty-children-bed-high-deta (2).jpeg",
+      "PackagePath": "staticwebassets\\Images\\pikaso_texttoimage_35mm-film-photography-empty-children-bed-high-deta (2).jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\pikaso_texttoimage_35mm-film-photography-empty-children-bed-high-deta (3).jpeg",
+      "PackagePath": "staticwebassets\\Images\\pikaso_texttoimage_35mm-film-photography-empty-children-bed-high-deta (3).jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\pikaso_texttoimage_35mm-film-photography-empty-children-bed-high-deta.jpeg",
+      "PackagePath": "staticwebassets\\Images\\pikaso_texttoimage_35mm-film-photography-empty-children-bed-high-deta.jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\rchair.jpeg",
+      "PackagePath": "staticwebassets\\Images\\rchair.jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\scabinit.jpeg",
+      "PackagePath": "staticwebassets\\Images\\scabinit.jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\schair.jpeg",
+      "PackagePath": "staticwebassets\\Images\\schair.jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\searchIcon.svg",
+      "PackagePath": "staticwebassets\\Images\\searchIcon.svg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\slcloset.jpeg",
+      "PackagePath": "staticwebassets\\Images\\slcloset.jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\wcabent.jpeg",
+      "PackagePath": "staticwebassets\\Images\\wcabent.jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Images\\ybed.jpeg",
+      "PackagePath": "staticwebassets\\Images\\ybed.jpeg"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\LoginRegister.html",
+      "PackagePath": "staticwebassets\\LoginRegister.html"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\LoginRegister.js",
+      "PackagePath": "staticwebassets\\LoginRegister.js"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Products.html",
+      "PackagePath": "staticwebassets\\Products.html"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\README.md",
+      "PackagePath": "staticwebassets\\README.md"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\Register.js",
+      "PackagePath": "staticwebassets\\Register.js"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\ShoppingBag.html",
+      "PackagePath": "staticwebassets\\ShoppingBag.html"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\ShoppingBag.js",
+      "PackagePath": "staticwebassets\\ShoppingBag.js"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\css\\Login.css",
+      "PackagePath": "staticwebassets\\css\\Login.css"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\css\\Products.css",
+      "PackagePath": "staticwebassets\\css\\Products.css"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\css\\ShoppingBag.css",
+      "PackagePath": "staticwebassets\\css\\ShoppingBag.css"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\css\\updateUser.css",
+      "PackagePath": "staticwebassets\\css\\updateUser.css"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\login.html",
+      "PackagePath": "staticwebassets\\login.html"
+    },
+    {
+      "Id": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\wwwroot\\userDeatails.html",
+      "PackagePath": "staticwebassets\\userDeatails.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Tamar_Sheva_Project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Tamar_Sheva_Project.props",
+      "PackagePath": "build\\Tamar_Sheva_Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Tamar_Sheva_Project.props",
+      "PackagePath": "buildMultiTargeting\\Tamar_Sheva_Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Tamar_Sheva_Project.props",
+      "PackagePath": "buildTransitive\\Tamar_Sheva_Project.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

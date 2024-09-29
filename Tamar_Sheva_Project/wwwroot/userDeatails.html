@@ -1,0 +1,78 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="css/updateUser.css" rel="stylesheet" />
+    <script src="LoginRegister.js"></script>
+    <script src="Register.js"></script>
+</head>
+<body>
+    <div class="cotn_principal">
+        <div class="cont_centrar">
+
+            <div class="cont_login">
+                <div class="cont_info_log_sign_up">
+                    <div class="col_md_login">
+                        <div class="cont_ba_opcitiy">
+
+                            <h2>UPDATE</h2>
+                            <p>want to change your profile in your account.</p>
+                            <button class="btn_login" onclick="change_to_login()">UPDATE</button>
+                        </div>
+                    </div>
+                  
+                </div>
+                <div class="cont_forms">
+                    <div class="cont_img_back_">
+                        <img src="Images/3275.JPG" />
+                    </div>
+                    <div class="cont_form_login">
+                        <a href="#" onclick="hideLoginAndSignUp()">
+                            <i class="material-icons">&#xE5C4;</i>
+                        </a>
+                        <h2>UPDATE</h2>
+
+                        <input id="txtFirstName" placeholder="firstName" />
+                        <input id="txtLastName" placeholder="lastName" />
+                        <input id="txtEmail" placeholder="email" />
+                        <input id="txtPassword" placeholder="Password" oninput="updatePasswordCheckIndicator(txtPassword.value)" />
+                        <input id="passwordCheck" />
+                        <button class="btn_sign_up" onclick="updateUser()">Update</button>
+                    </div>
+                    
+                    <script>
+                        async function setUserData(userId) {
+                            try {
+                                const resp = await fetch(`api/User/${userId}`);
+                                if (resp.ok) {
+                                    const data = await resp.json();
+                                    if (data) {
+                                        document.getElementById('txtFirstName').value = data.firstName || '';
+                                        document.getElementById('txtLastName').value = data.lastName || '';
+                                        document.getElementById('txtEmail').value = data.email || '';
+                                    }
+                                } else {
+                                    console.error("Failed to fetch user data");
+                                }
+                            } catch (error) {
+                                console.error("Error fetching user data", error);
+                            }
+                        }
+
+                        let userId = localStorage.getItem("userID");
+                        setUserData(userId);
+                    </script>
+                    <div class="cont_form_sign_up">
+
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
+

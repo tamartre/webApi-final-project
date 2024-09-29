@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shopping Bag</title>
+    <link href="css/ShoppingBag.css" rel="stylesheet">
+    <script src="ShoppingBag.js" defer></script>
+
+    <!-- Item Row Template -->
+    <template id="temp-row">
+        <tr class="item-row" data-product-id="">
+            <td class="imageColumn">
+                <div class="image"><img alt="Product Image"></div>
+            </td>
+            <td class="nameColumn">
+                <h3 class="itemName"></h3>
+            </td>
+            <td class="priceColumn">
+                <p class="price"></p>
+            </td>
+            <td class="availabilityColumn">
+                <div>במלאי</div>
+            </td>
+            <td class="quantityColumn">
+                <p class="quantity"></p>
+            </td>
+            <td class="totalColumn delete">
+                <div class="expandoHeight">
+                    <a href="#" title="לחצו כאן כדי להסיר את פריט זה" class="Hide DeleteButton showText">הסרת פריט</a>
+                </div>
+            </td>
+        </tr>
+    </template>
+</head>
+<body>
+    <div class="cart">
+        <div id="title">
+            <h1>סל קניות</h1>
+            <a class="nxbtn primary GoToCheckout TopLink checkout_transfer" href="#" onclick="placeOrder()">לביצוע ההזמנה</a>
+            <a class="shopmore" href="Products.html?fromShoppingBag=1">המשך בקניה</a>
+            <div class="ClearBoth"></div>
+        </div>
+        <div class="cistGroup">
+            <table id="items" class="items">
+                <thead>
+                    <tr>
+                        <th class="itemsColumn">פריטים</th>
+                        <th>שם מוצר</th>
+                        <th>מחיר</th>
+                        <th>זמינות</th>
+                        <th>כמות</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+            <div class="totalColumn">
+                סכום ההזמנה: <span id="totalColumnText">0</span>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

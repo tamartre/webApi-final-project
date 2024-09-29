@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="css/Login.css" rel="stylesheet" />
+    <script src="LoginRegister.js"></script>
+    <script src="Register.js"></script>
+</head>
+<body>
+    <div class="cotn_principal">
+        <div class="cont_centrar">
+
+            <div class="cont_login">
+                <div class="cont_info_log_sign_up">
+                    <div class="col_md_login">
+                        <div class="cont_ba_opcitiy">
+
+                            <h2>LOGIN</h2>
+                            <p>want to shop in our store?? log in and start buying.</p>
+                            <button class="btn_login" onclick="change_to_login()">LOGIN</button>
+                        </div>
+                    </div>
+                    <div class="col_md_sign_up">
+                        <div class="cont_ba_opcitiy">
+                            <h2>SIGN UP</h2>
+
+
+                            <p>our store is the best!! try it, sign up and you are inside.</p>
+
+                            <button class="btn_sign_up" onclick="change_to_sign_up()">SIGN UP</button>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="cont_back_info">
+                    <div class="cont_img_back_grey">
+                        <img src="Images/3244.JPG" />
+                    </div>
+
+                </div>
+                <div class="cont_forms">
+                    <div class="cont_img_back_">
+                        <img src="Images/3275.JPG" />
+                    </div>
+                    <div class="cont_form_login">
+                        <a href="#" onclick="hideLoginAndSignUp()"><i class="material-icons">&#xE5C4;</i></a>
+                        <h2>LOGIN</h2>
+                        <input id="txtUserNamelogin" placeholder="userName" />
+                        <input id="txtPasswordlogin" placeholder="Password" />
+                        <button class="btn_login" onclick="checkExistingUser()">LOGIN</button>
+                    </div>
+
+                    <div class="cont_form_sign_up">
+                        <a href="#" onclick="hideLoginAndSignUp()"><i class="material-icons">&#xE5C4;</i></a>
+                        <h2>SIGN UP</h2>
+                        <input id="txtUserName" placeholder="userName" />
+                        <input id="txtFirstName" placeholder="firstName" />
+                        <input id="txtLastName" placeholder="lastName" />
+                        <input id="txtEmail" placeholder="email" />
+                        <input id="txtPassword" placeholder="Password" oninput="PasswordCheck(txtPassword.value)" />
+                        <input id="passwordCheck" />
+                        <button class="btn_sign_up" onclick="addUserToUsers()">SIGN UP</button>
+
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>

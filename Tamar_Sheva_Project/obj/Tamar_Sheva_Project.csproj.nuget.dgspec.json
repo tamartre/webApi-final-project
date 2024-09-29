@@ -1,0 +1,395 @@
+{
+  "format": 1,
+  "restore": {
+    "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\Tamar_Sheva_Project.csproj": {}
+  },
+  "projects": {
+    "M:\\WEB-API\\login\\Tamar_Sheva_Project\\BL\\Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\BL\\Service.csproj",
+        "projectName": "Service",
+        "projectPath": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\BL\\Service.csproj",
+        "packagesPath": "C:\\Users\\326035854\\.nuget\\packages\\",
+        "outputPath": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\BL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\326035854\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Entities\\Entities.csproj": {
+                "projectPath": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Entities\\Entities.csproj"
+              },
+              "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Repositary\\Repository.csproj": {
+                "projectPath": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Repositary\\Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "zxcvbn-core": {
+              "target": "Package",
+              "version": "[8.0.0-beta0002, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "M:\\WEB-API\\login\\Tamar_Sheva_Project\\DTOs\\DTOs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\DTOs\\DTOs.csproj",
+        "projectName": "DTOs",
+        "projectPath": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\DTOs\\DTOs.csproj",
+        "packagesPath": "C:\\Users\\326035854\\.nuget\\packages\\",
+        "outputPath": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\DTOs\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\326035854\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Entities\\Entities.csproj": {
+                "projectPath": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Entities\\Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Entities\\Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\326035854\\.nuget\\packages\\",
+        "outputPath": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\326035854\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "zxcvbn-core": {
+              "target": "Package",
+              "version": "[8.0.0-beta0002, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Repositary\\Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Repositary\\Repository.csproj",
+        "projectName": "Repository",
+        "projectPath": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Repositary\\Repository.csproj",
+        "packagesPath": "C:\\Users\\326035854\\.nuget\\packages\\",
+        "outputPath": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Repositary\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\326035854\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Entities\\Entities.csproj": {
+                "projectPath": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "zxcvbn-core": {
+              "target": "Package",
+              "version": "[8.0.0-beta0002, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\Tamar_Sheva_Project.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\Tamar_Sheva_Project.csproj",
+        "projectName": "Tamar_Sheva_Project",
+        "projectPath": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\Tamar_Sheva_Project.csproj",
+        "packagesPath": "C:\\Users\\326035854\\.nuget\\packages\\",
+        "outputPath": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Tamar_Sheva_Project\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\326035854\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "M:\\WEB-API\\login\\Tamar_Sheva_Project\\BL\\Service.csproj": {
+                "projectPath": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\BL\\Service.csproj"
+              },
+              "M:\\WEB-API\\login\\Tamar_Sheva_Project\\DTOs\\DTOs.csproj": {
+                "projectPath": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\DTOs\\DTOs.csproj"
+              },
+              "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Entities\\Entities.csproj": {
+                "projectPath": "M:\\WEB-API\\login\\Tamar_Sheva_Project\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "NLog.MailKit": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[5.3.11, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "zxcvbn-core": {
+              "target": "Package",
+              "version": "[8.0.0-beta0002, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
